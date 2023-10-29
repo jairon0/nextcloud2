@@ -62,13 +62,13 @@ api_hash = "9dc7dc047bf497f26ef6fa4c6e64689f"
 bot_token = Bot_token
 Channel_Id = chanel_id
 bot = Client("bot",api_id=api_id,api_hash=api_hash,bot_token=bot_token)
-boss = ['jvc2006','valdes_95','raydel0307']#usuarios supremos
+boss = ['jvc2006']#usuarios supremos
 
 Configs = {"uclv":'',"gtm":"","uvs":"","ltu":"", 
 			"ucuser": "", "ucpass":"","uclv_p":"", "gp":None, "s":"On", 
-			'valdes_95': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
-			'raydel0307': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
 			'jvc2006': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
+	   		'valdes_95': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
+			'raydel0307': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
 	                'DRP96': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
                         'Orisha91': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
 	                'ale9506': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
